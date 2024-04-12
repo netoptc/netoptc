@@ -1,9 +1,9 @@
-### Olá, eu sou o Neto 🤙
+### Olá, eu sou o Neto.
 
 Seja bem vindo ao meu GitHub
 
-### 😄 Um pocuo sobre mim 
-- Tenho 23 anos
+### Um pocuo sobre mim 
+- Tenho 24 anos
 - Nascido no Brasil, Minas Gerais
 - Atualmente moro em Uberlandia/MG
 
