@@ -8,8 +8,8 @@ Seja bem vindo ao meu GitHub
 - Atualmente moro em Uberlandia/MG
 
 ### 🌱 Oque estou estudando atualmente
-- Node
-- Docker
+- Java
+- TDD
 - Clean architecture
 
 ### 📧 Meus contatos 
