@@ -3,7 +3,7 @@
 Seja bem vindo ao meu GitHub
 
 ### Um pocuo sobre mim 
-- Tenho 24 anos
+- Tenho 26 anos
 - Nascido no Brasil, Minas Gerais
 - Atualmente moro em Uberlandia/MG
 
